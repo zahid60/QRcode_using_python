@@ -47,4 +47,4 @@ Feel free to use or modify these code examples for your own projects!
 
 If you have improvements or additional QR code generator examples, please consider contributing to this repository. Fork the project, make your changes, and submit a pull request.
 
-Happy coding  ❤️😊! 
+Happy coding ❤️😊! 
